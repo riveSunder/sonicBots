@@ -1,0 +1,10 @@
+connecting to remote environment
+starting episode
+episode complete
+new best reward: 373.735 based on a 385 action JERK queue
+avg. reward: 18.687, acc. reward: 373.735, best reward: 373.735, current JERK queue 385 vs actions length 385
+begin run 1
+episode complete
+new best reward: 561.551 based on a 1838 action JERK queue
+avg. reward: 45.830, acc. reward: 561.551, best reward: 561.551, current JERK queue 1838 vs actions length 1838
+begin run 2
