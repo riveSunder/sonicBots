@@ -1,0 +1,24 @@
+FROM openai/retro-agent:tensorflow
+
+# Needed for OpenCV.
+RUN apt-get update && \
+    apt-get install -y libgtk2.0-dev && \
+    apt-get install -y python3-dev && \
+    apt-get install -y python-dev && \
+    apt-get install -y libopenmpi-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+# Baselines has some unneeded and cumbersome dependencies,
+# so we manually fetch the deps we need.
+RUN . ~/venv/bin/activate && \
+    pip install mpi4py scipy tqdm joblib zmq dill progressbar2 cloudpickle opencv-python && \
+    pip install --no-deps git+https://github.com/rivesunder/baselines.git
+#    git clone https://github.com/riveSunder/baselines 
+#RUN cd baselines && \
+#    ls
+#RUN pip install -e . 
+
+ADD acer_agent.py ./agent.py
+ADD sonic_util.py .
+
+CMD ["python", "-u", "/root/compo/agent.py"]
