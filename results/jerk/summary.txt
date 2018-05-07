@@ -1,0 +1,13 @@
+gamestate,score,std
+SonicAndKnuckles3-GenesisFlyingBatteryZone.Act2, 1253.13, 143.98
+SonicAndKnuckles3-GenesisLavaReefZone.Act1, 126.72, 239.68
+SonicTheHedgehog2-GenesisHillTopZone.Act2, 1385.38, 571.86
+SonicAndKnuckles3-GenesisHydrocityZone.Act1, 2140.97, 1226.02
+SonicTheHedgehog2-GenesisCasinoNightZone.Act2, 1663.08, 1638.69
+SonicTheHedgehog-GenesisSpringYardZone.Act1, 825.07, 693.82
+SonicTheHedgehog-GenesisGreenHillZone.Act2, 2327.98, 1982.28
+SonicAndKnuckles3-GenesisAngelIslandZone.Act2, 806.91, 564.96
+SonicTheHedgehog-GenesisScrapBrainZone.Act1, 1017.33, 629.57
+SonicTheHedgehog2-GenesisMetropolisZone.Act3, 1392.68, 1047.23
+SonicTheHedgehog-GenesisStarLightZone.Act3, 2369.18, 414.58
+aggregate, 1391.68, 666.73

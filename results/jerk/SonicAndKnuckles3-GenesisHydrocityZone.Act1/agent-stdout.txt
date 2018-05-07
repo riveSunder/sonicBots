@@ -1,0 +1,288 @@
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 0.000001
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -93.183194
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340353
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799840
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799840
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799841
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+replayed best with reward 2925.408064
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+replayed best with reward 3199.516285
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799836
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -159.159622
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3039.676504
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 253.703138
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+replayed best with reward 2638.376632
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2637.696463
+replayed best with reward 3213.799839
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3039.676508
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2403.038067
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2654.020525
+replayed best with reward 3039.676508
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -38.089484
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3196.795608
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799843
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340356
+replayed best with reward 3213.799839
+replayed best with reward 3213.799836
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -0.000004
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -129.912334
+backtracking due to negative reward: -158.479443
+replayed best with reward 2653.340362
+replayed best with reward 3101.571906
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340366
+replayed best with reward 1907.874833
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 0.000001
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 867.215839
+replayed best with reward 3213.799841
+replayed best with reward 3213.799840
+replayed best with reward 2653.340356
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3030.834311
+replayed best with reward 3028.793796
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340356
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3003.627537
+replayed best with reward 3213.799839
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3039.676509
+replayed best with reward 2654.020525
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799837
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3196.795609
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340356
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340356
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+replayed best with reward 2653.340356
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -55.773885
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 2653.340356
+replayed best with reward 2892.759943
+replayed best with reward 2654.020525
+replayed best with reward 2406.438914
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: -125.831318
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799836
+replayed best with reward 1907.874828
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799840
+backtracking due to negative reward: 0.000000
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799841
+replayed best with reward 3039.676508
+backtracking due to negative reward: 0.000000
+replayed best with reward 3213.799839
+replayed best with reward 3213.799839
+exception None
